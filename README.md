@@ -4,6 +4,7 @@
 
 ## Overview
 This project implements a book recommendation system based on the Book-Crossings dataset. The system uses the K-Nearest Neighbors (KNN) algorithm to recommend books that are similar to a given book title. The data includes ratings of over 270,000 books by 90,000 users. The KNN model helps in finding the "closeness" of books based on user ratings.
+<img width="938" height="482" alt="image" src="https://github.com/user-attachments/assets/2bf4804d-7fb1-44cc-a56c-3b758ad52585" />
 
 ## Project Steps:
 1. **Data Preprocessing**:
