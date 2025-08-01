@@ -18,6 +18,3 @@ Data-Driven: Uses the Book-Crossing dataset with 1M+ ratings
 This project is based on a challenge from FreeCodeCamp.
 
 ---
-
-You can copy this directly into your project’s GitHub repository. Let me know if you need any changes or additional details!
-
